@@ -1,0 +1,5 @@
+{
+  "name": "TGA Project Dashboard",
+  "description": "A high-performance project management dashboard for TGA engineering, featuring a detailed timeline/Gantt view, financial tracking, and status monitoring.",
+  "requestFramePermissions": []
+}
